@@ -1,11 +1,12 @@
 #topGame {
     background-color: yellow;
     display: block;
-    height:5%;
+    height:10%;
     width:100%;
     position:fixed;
     top:0;
     left:0;
+
 
 
 }
@@ -13,10 +14,10 @@
 #pageGame {
     background-color: aquamarine;
     display: block;
-    height:98%;
+    height:90%;
     width:100%;
     position:absolute;
-    top:45px;
+    top:95px;
     left:0;
 
 
