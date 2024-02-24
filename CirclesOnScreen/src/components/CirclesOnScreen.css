@@ -1,0 +1,23 @@
+#topGame {
+    background-color: yellow;
+    display: block;
+    height:5%;
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+
+
+}
+
+#pageGame {
+    background-color: aquamarine;
+    display: block;
+    height:98%;
+    width:100%;
+    position:absolute;
+    top:45px;
+    left:0;
+
+
+}
